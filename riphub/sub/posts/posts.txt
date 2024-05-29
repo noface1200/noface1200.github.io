@@ -1,9 +1,10 @@
-# Post 1
-TITLE=First Post
-CONTENT=
-This is the content of the first post.
+# Post 1 -- K9 Tech 
 
-# Post 2
-TITLE=Second Post
-CONTENT=
-This is the content of the second post.
+Riphub Is Now Owned By K9 Tech
+Community Server: https://discord.gg/YKSmyCB7VJ
+
+# Post 2 -- Homicide Dox
+
+Full Name: Nathaniel Ripher
+Photo: https://home.riphub.rf.gd/riphub/img/homicide.png
+
