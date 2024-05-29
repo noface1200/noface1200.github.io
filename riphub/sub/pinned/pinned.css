@@ -1,0 +1,61 @@
+body {
+    background-color: #111;
+    background-image: url('/imgdb/turner.gif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.post {
+    flex: 1;
+    background-color: #111111;
+    border: 2px solid #fff;
+    padding: 10px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    margin: 0 15px;
+}
+
+.post p, .post a {
+    font-family: 'DM Serif Display', serif;
+    color: #fff;
+    text-align: center;
+    margin: 10px 0;
+}
+
+.post a {
+    font-size: larger;
+    background-color: #290000;
+    border: 2px solid #3a3a3a;
+    padding: 10px;
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.post a:hover {
+    background-color: #4d0000;
+    border: 2px solid #fff;
+}
+
+.imgbase {
+    text-align: center;
+}
+
+.post img {
+    width: 100%;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.links {
+    text-align: center;
+}
