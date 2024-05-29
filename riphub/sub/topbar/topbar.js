@@ -8,5 +8,5 @@ function Pinned() {
 }
 
 function discord() {
-    window.open("https://discord.gg/HgfuNVw3", "_blank");
+    window.open("https://discord.gg/YKSmyCB7VJ", "_blank");
 }
